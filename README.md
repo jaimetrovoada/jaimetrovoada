@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mariabytravis" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="mariabytravis" /></a>
+<a href="https://twitter.com/mariabytravis" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" alt="mariabytravis" /></a>
 <a href="https://linkedin.com/in/jaime-trovoada-5426bb1a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jaimetrovoada" height="30" width="40" /></a>
 <a href="https://instagram.com/jaimetrovoada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="jaimetrovoada" height="30" width="40" /></a>
 </p>
