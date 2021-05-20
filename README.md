@@ -1,3 +1,5 @@
+<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png" />
+
 <h1 align="center">Hi 👋, I'm Jaime Trovoada</h1>
 <h3 align="center">A passionate frontend developer from Sao Tome and Principe</h3>
 
