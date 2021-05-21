@@ -39,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimetrovoada&show_icons=true&locale=en" alt="jaimetrovoada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimetrovoada&show_icons=true&locale=en" alt="jaimetrovoada" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
