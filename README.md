@@ -23,10 +23,6 @@
 
 - ⚡ Fun fact **I enjoy taking pictures of things I when I'm walking around**
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jaimetrovoada)
-<br />
 
 ---
 <h3 align="left">Connect with me:</h3>
