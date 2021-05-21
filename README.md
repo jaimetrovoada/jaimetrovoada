@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **I enjoy taking pictures of things I when I'm walking around**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mariabytravis" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="mariabytravis" /></a>
@@ -40,6 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimetrovoada&show_icons=true&locale=en" alt="jaimetrovoada" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaimetrovoada)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
+![GitHub metrics](https://metrics.lecoq.io/jaimetrovoada)
