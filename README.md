@@ -47,11 +47,11 @@
 <br />
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimetrovoada&show_icons=true&locale=en&layout=compact" alt="jaimetrovoada" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimetrovoada&show_icons=true&locale=en&layout=compact" alt="jaimetrovoada" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jaimetrovoada&show_icons=true&locale=en" alt="jaimetrovoada" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jaimetrovoada&show_icons=true&locale=en" alt="jaimetrovoada" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaimetrovoada)
 
