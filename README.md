@@ -1,5 +1,3 @@
-<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png" />
-
 <h1 align="center">Hi 👋, I'm Jaime Trovoada</h1>
 <h3 align="center">A passionate frontend developer from Sao Tome and Principe</h3>
 
@@ -15,11 +13,16 @@
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
+- 🤝 I’m looking for help with **learning React, Node.js and Express**
+
 - 👨‍💻 All of my projects are available at [https://jaimetrovoada.github.io/](https://jaimetrovoada.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node**
 
 - 📫 How to reach me **jaimetrovoada@gmail.com**
+
+- ⚡ Fun fact **I enjoy taking pictures of things I when I'm walking around**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimetrovoada&show_icons=true&locale=en" alt="jaimetrovoada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimetrovoada&" alt="jaimetrovoada" /></p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaimetrovoada)  
-
-![GitHub metrics](https://metrics.lecoq.io/jaimetrovoada)  
