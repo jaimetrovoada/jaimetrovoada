@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimetrovoada" alt="jaimetrovoada" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mariabytravis" target="blank"><img src="https://img.shields.io/twitter/follow/mariabytravis?logo=twitter&style=for-the-badge" alt="mariabytravis" /></a> </p>
-
+<!-- 
 - 🔭 I’m currently working on **my graduation project**
 
-- 🌱 I’m currently learning **Backend development with Node.js and Express**
+- 🌱 I’m currently learning **Backend development with Node.js and Express** -->
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
