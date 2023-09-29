@@ -7,7 +7,7 @@
 
 ⚐ Based in Lisbon, Portugal
 
-ϟ Currently taking Fullstack Open course, and building things
+ϟ Currently new things, and building cool stuff.
 
 
 
